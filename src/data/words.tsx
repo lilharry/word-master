@@ -2,6 +2,7 @@ const words: { [key: string]: boolean } = {
   aahed: true,
   aalii: true,
   aargh: true,
+  froyo: true,
   abaca: true,
   abaci: true,
   aback: true,

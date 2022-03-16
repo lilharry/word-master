@@ -17,6 +17,13 @@ const answers = [
   'buggy',
   'bites',
   'punch',
+  'crocs',
+  'froyo',
+  'heart',
+  'happy',
+  'loves',
+  'smile',
+  'forts',
 ]
 
 export default answers
