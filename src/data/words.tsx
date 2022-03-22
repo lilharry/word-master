@@ -1,8 +1,8 @@
 const words: { [key: string]: boolean } = {
   aahed: true,
-  tuned: true,
   brian: true,
-  amine: true,
+  wetea: true,
+  weggy: true,
   aalii: true,
   aargh: true,
   froyo: true,

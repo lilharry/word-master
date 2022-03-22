@@ -36,6 +36,20 @@ const answers = [
   'sushi',
   'tuned',
   'venmo',
+  'wetea',
+  'heart',
+  'loves',
+  'bagel',
+  'drink',
+  'weggy',
+  'steak',
+  'pasta',
+  'toast',
+  'fries',
+  'blaze',
+  'smoke',
+  'crack',
+  'jager'
 ]
 
 export default answers
