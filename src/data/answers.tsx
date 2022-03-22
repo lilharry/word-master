@@ -52,4 +52,4 @@ const answers = [
   'jager'
 ]
 
-export default answers
+export default answers 
