@@ -24,6 +24,18 @@ const answers = [
   'loves',
   'smile',
   'forts',
+  'movie',
+  'tesla', 
+  'amine',
+  'brian',
+  'anime',
+  'table',
+  'kings',
+  'beach',
+  'shoes',
+  'sushi',
+  'tuned',
+  'venmo',
 ]
 
 export default answers
